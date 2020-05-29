@@ -1,0 +1,2 @@
+# client-server-socket-level-message-board
+A brief multithreaded python networking project designed to gain familiarity with networks and client-server interactions at a socket level. This Message board consists of a server which manages all message boards and client connections/submissions, along with a client file which can be used to connect to the server, by supplying its ip and port as command line arguments.
